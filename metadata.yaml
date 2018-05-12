@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2097
     wikipedia: http://www.gutenberg.org/browse/authors/h#a40974
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38733#Father-Bear-and-Bobby-Bear
 gutenberg_issued: '2012-02-01'
 gutenberg_type: Text
 identifiers:
