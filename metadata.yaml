@@ -1,0 +1,33 @@
+_repo: Father-Bear-and-Bobby-Bear_38733
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frazee, Hazel
+    gutenberg_agent_id: '43017'
+    url: http://www.gutenberg.org/2009/agents/43017
+covers:
+- cover_type: archival
+  image_path: 38733-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lowe, Samuel E. (Samuel Edward)
+    alias: Famous, Howard B.
+    birthdate: 1890
+    deathdate: 1952
+    gutenberg_agent_id: '2097'
+    url: http://www.gutenberg.org/2009/agents/2097
+    wikipedia: http://www.gutenberg.org/browse/authors/h#a40974
+description: ''
+gutenberg_issued: '2012-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Bears -- Juvenile fiction'
+title: Father Bear and Bobby Bear
+url: http://www.gutenberg.org/ebooks/38733
